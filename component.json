@@ -1,0 +1,14 @@
+{
+  "name": "colorspaces",
+  "repo": "timoxley/colorspaces",
+  "description": "Colorspace manipulation.",
+  "version": "0.1.2",
+  "keywords": ["color", "color space", "CIE", "RGB"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+	"main": "colorspaces.js",
+  "scripts": [
+    "colorspaces.js"
+  ]
+}
